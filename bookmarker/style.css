@@ -1,0 +1,20 @@
+.well1 {
+  background-color:tomato;
+  padding:3px 0 3px 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  transition-duration:0.4s;
+}
+.well1:hover {
+  background-color: #bf4a35;
+  transition-duration:0.4s;
+  color:white;
+}
+
+.well1 a .btn-primary {
+  transition-duration: 0.2s;
+}
+.well1 a:hover {
+  transition-duration: 0.25s;
+  color:white;
+}
